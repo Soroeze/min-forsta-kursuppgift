@@ -44,6 +44,11 @@ Skolan som jag lär mig från är [Chas Academy](https://chasacademy.se/) och [S
 
 ![](https://rdr-it.com/wp-content/uploads/2026/03/1.4-docker-hello-world-01.png)
 
+## Valens Val
+- Plankton
+- Säga hej till världen!
+- Se att allt funkar!
+
 ## Todo
 
 - [x] Man glömmer väl alltid något eller hur?
